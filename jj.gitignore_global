@@ -1,0 +1,17 @@
+<div aria-live="polite" class="slick-list draggable"><div class="slick-track" role="listbox" style="opacity: 1; width: 2800px; transform: translate3d(-700px, 0px, 0px);">
+
+    <div class="testimonial-item text-center mx-auto slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1" style="width: 700px;">
+     </div>
+
+      <div class="testimonial-item text-center mx-auto slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide00" style="width: 700px;">
+       <div class="mb-3 mx-auto">
+
+           <img style="border-radius: 20px;" class="img-responsive" src="jaipur.jpg">						
+       </div>
+
+           <h4 class="mt-3 mb-0">Jaipur</h4>
+           
+           <div class="bg-white padding-30 shadow-dark rounded triangle-top position-relative mt-4">
+               <p class="mb-0">I loved traveling to Jaipur, on of the best cities in India. I enjoyed traveling and exploring their!!</p>
+           </div>
+       </div>
